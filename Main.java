@@ -147,8 +147,8 @@ public class Main {
         Scanner scn=new Scanner(System.in);
 
         String expr=scn.nextLine(); // считываем выражение
-        System.out.println(calc(expr))://вывод
-          }
+        System.out.println(calc(expr));//вывод
+        
     }
 }
 
